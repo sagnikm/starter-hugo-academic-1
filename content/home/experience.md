@@ -22,28 +22,49 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Lecturer in Algorithms
+    company: University of Sheffield
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: uos-logo
+    location: United Kingdom
+    date_start: '2022-01-17'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+
+  - title: Post-doctoral researcher
+    company: University of Copenhagen
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: ku-logo
+    location: Denmark
+    date_start: '2021-09-01'
+    date_end: '2021-12-31'
+    description: 'Research theme: Graph algorithms, Models of computations, e.g., distributed, streaming, query, communication, etc.'
+        
+  - title: Post-doctoral researcher
+    company: Royal Institute of Technology
+    company_url: ''
+    company_logo: kth-logo
+    location: Sweden
+    date_start: '2019-01-01'
+    date_end: '2021-08-31'
+    description: 'Research theme: Graph algorithms, Models of computations, e.g., distributed, streaming, query, communication, etc'
+    
+  - title: Post-doctoral researcher
+    company: IUUK Charles University
+    company_url: ''
+    company_logo: charles-logo
+    location: Czechia
+    date_start: '2018-09-01'
+    date_end: '2018-12-31'
+    description: 'Research theme: Complexity theory.'
+
+  - title: Post-doctoral researcher
+    company: Royal Institute of Technology
+    company_url: ''
+    company_logo: kth-logo
+    location: Sweden
+    date_start: '2017-09-01'
+    date_end: '2018-08-31'
+    description: 'Research theme: Proof complexity & Communication complexity.'
 
 design:
   columns: '2'
