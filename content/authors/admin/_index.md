@@ -47,6 +47,7 @@ I was a recipient of TCS Ph.D. Fellowship and my Ph.D. research work was support
 
 ## News
 
+* Two new papers in **FOCS 2022**. See publications section.
 * New paper on hypergraph min-cut in **IPCO 2022**. See publications section.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
